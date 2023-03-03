@@ -1,0 +1,7 @@
+Escribir una MEF indicando el control de un dispositivo con ingreso de información. 
+
+Programar adecuadamente el uso de Timers en un sistema embebido tipo microcontrolador. 
+
+Programar y simular el funcionamiento del dispositivo de manera virtual usando Proteus como sistema de prueba. 
+
+Desarrollar un temporizador usando un sistema embebido tipo microcontrolador, controlando el tiempo mediante los temporizadores del dispositivo. 
